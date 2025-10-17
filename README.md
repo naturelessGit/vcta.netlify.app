@@ -18,4 +18,3 @@ How to use
 Notes
 
 This repository only contains the static landing page. The file transfer server itself is separate and should be distributed as binary releases, packages, or container images.
-# vcta.netlify.app
